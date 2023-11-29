@@ -1,0 +1,267 @@
+AAAS - African & African Amer Studies
+AADS - Asian American and Diaspora St
+ACCOUNTG - Accounting
+ADF - American Dance Festival
+AEROSCI - Aerospace Studies-AFROTC
+AIPI - AI for Product Innovation
+AMES - Asian & Middle Eastern Studies
+AMXTIAN - American Christianity
+ANATOMY - Anatomy
+ANESTH - Anesthesiology
+ARABIC - Arabic
+ARTHIST - Art History
+ARTS&SCI - Arts and Science IDEAS themes
+ARTSVIS - Visual Arts
+ASEP - Anesthesiol, Surg & Envtl Phys
+BA - Business Administration
+BALTFIN - Balto-Finnic
+BCS - Black Church Studies
+BES - BioMed Engineering and Surgery
+BIOCHEM - Biochemistry
+BIOETHIC - Bioethics and Science Policy
+BIOLOGY - Biology
+BIOSTAT - Biostatistics
+BIOTRAIN - Biomedical Research Training
+BME - Biomedical Engineering
+BRAINSOC - Brain & Society
+BSP - Behavioral Neuro Study Program
+CARDULTR - Cardiac Ultrasound
+CBB - Computational Bio  Bioinformat
+CEE - Civil and Environmental Egr
+CELLBIO - Cell Biology
+CESC - Civic Engagement&Social Change
+CFM - Community & Family Medicine
+CHEM - Chemistry
+CHILDPOL - Child Policy
+CHINESE - Chinese
+CHURHST - Church History
+CHURMIN - Church Ministry
+CIF - Colloquia/Interfield/Field Edu
+CINE - Cinematic Arts
+CLP - Clinical Leadership Program
+CLST - Classical Studies
+CMAC - Cmputnl Media, Arts & Cultures
+CMB - Cell and Molecular Biology
+COMMFAM - Community and Family Medicine
+COMPSCI - Computer Science
+CONTDIV - Continuation - Divinity
+CONTENV - Continuation-Completion(NSOE)
+CONTNUR - Course Continuation - Nursing
+CONTPPS - Course Continuation - PPS
+CPE - Clinical Pastoral Education
+CREOLE - Creole
+CRP - Clinical Research Training Prg
+CRS - Continuation of Enrollment
+CRSP - Clinical Research Study Prog
+CTN - Continuation - Graduate School
+CULANTH - Cultural Anthropology
+CVS - Cardiovascular Study Program
+CYBERSEC - Cybersecurity
+DANCE - Dance
+DECISION - Decision Sciences
+DECSCI - Decision Sciences Program
+DERMATOL - Dermatology
+DESIGNTK - Design & Technology Innovation
+DIVINITY - Divinity
+DMNISTRY - Doctor of Ministry
+DOCST - Documentary Studies
+DSCB - Developmental & Stem Cell Bio
+EAS - East Asian Studies
+ECE - Electrical & Computer Egr
+ECON - Economics
+ECS - Earth and Climate Sciences
+EDUC - Education
+EGR - Engineering
+EGRCOOP - Engineering Co-op
+EGRMGMT - Engineering Management
+EHD - Education and Human Developmnt
+EMERGMED - Emergency Medicine
+ENERGY - Energy
+ENGLISH - English
+ENR - Enrollment Fee
+ENRGYEGR - Energy Engineering
+ENRGYENV - Energy & Environment
+ENTREPRN - Entrepreneurship & Innovation
+ENVIRON - Environment
+EOS - Earth & Ocean Sciences
+EPH - Epidemiology & Public Health
+ETHICS - Study of Ethics
+EVANTH - Evolutionary Anthropology
+EXP - Study Away
+FECON - Financial Economics
+FIELDEDU - Field Education
+FINANCE - Finance
+FINTECH - Financial Technology
+FMKT - Financial Markets
+FOCUS - Focus
+FRENCH - French
+FUQINTRD - Interdisciplinary
+GAMEDSGN - Game Design and Development
+GATE - Global Academic Travel Exp
+GENOME - Genome Sciences and Policy
+GEOADMIN - Global Education Admn Use Only
+GERMAN - German
+GGS - Global Gender Studies
+GHS - Global Health Study Program
+GLHLTH - Global Health
+GREEK - Greek
+GS - Graduate Studies
+GSF - Gender Sexuality & Feminist St
+HCVIS - Historical&Cultural Visualiztn
+HEBREW - Hebrew
+HGP - Human Genetics Study Program
+HINDI - Hindi
+HISTORY - History
+HISTREL - History of Religion
+HISTTHEO - Historical Theology
+HLTHMGMT - Health Sector Management
+HLTHPOL - Health Policy
+HLTHSCI - Health Sciences
+HOUSECS - House Course
+HUNGARN - Hungarian
+I&E - Innovation & Entrepreneurship
+IAD - INDEPEN. ACADEMIC DEVELOPMENT
+ICS - Internatl Comparative Studies
+IDS - Interdisciplinary Data Science
+IMMUNOL - Immunology
+IMPINV - Initiative on Impact Investing
+INTERDIS - Interdisciplinary
+ISS - Information Science + Studies
+ITALIAN - Italian
+JAM - Journalism & Media
+JEWISHST - Jewish Studies
+JPN - Japanese
+KICHE - K'iche' Maya
+KOREAN - Korean
+LATAMER - Latin American Studies
+LATIN - Latin
+LAW - Law
+LINGUIST - Linguistics
+LIT - Literature
+LS - Liberal Studies
+LSGS - Latino Studies Global South
+LTS - Liturgical Studies
+MALAGASY - Malagasy
+MANAGEMT - Management
+MARKETNG - Marketing
+MARSCI - Marine Science Conservation
+MAT - Master of Arts in Teaching
+MATH - Mathematics
+ME - Mechanical Engr/Materials Sci
+MEDHUM - Medical Humanities Study Progr
+MEDICINE - Medicine
+MEDPHY - Medical Physics
+MEDREN - Medieval and Renaissance
+MENG - Master of Engineering
+MERP - Medical Education Research Prg
+MFAEDA - MFA in Experimental & Doc Arts
+MGM - Molec Genetics & Microbiology
+MGMTCOM - Management Communications
+MGRECON - Economics
+MIDIP - MIDIP
+MILITSCI - Military Science (Army ROTC)
+MMCI - Mstrs in Manage in Cln Info
+MMS - Markets and Management Studies
+MOLCAN - Molecular Cancer Biology
+MOLMED - Molecular Medicine
+MSEG - Materials Science & Engineerng
+MSIS - M of Sci of Info Sci Study Pro
+MSLS - M of Sci of Lib Sci Study Pro
+MUSIC - Music
+NANOSCI - Nanosciences
+NAVALSCI - Naval Science (Navy ROTC)
+NCS - Nonlinear and Complex Systems
+NEURO - Neurology
+NEUROBIO - Neurobiology
+NEUROSCI - Neuroscience
+NEUROSUR - Neurosurgery
+NEWTEST - New Testament
+NSS - Neurosciences Study Program
+NURSING - Nursing
+OBGYN - Obstetrics and Gynecology
+OLDTEST - Old Testament
+OPERATNS - Operations
+OPHTHAL - Ophthalmology
+OPTECH - Ophthalmic Medical Technician
+OPTRS - Optional Research Studies
+ORTHO - Orthopaedics
+OT-D - Occupational Therapy-Doctorate
+OTOLARYN - Otolaryngology
+OVS - Ophthalmology/Visual Sci St Pr
+PARISH - Care of Parish
+PASTCARE - Pastoral Care
+PATHASST - Pathologist's Assistant Progr
+PATHOL - Pathology
+PCLT - Primary Care Leadership Track
+PEDS - Pediatrics
+PERSIAN - Persian
+PHARM - Pharm and Cancer Biology
+PHIL - Philosophy
+PHOTO - Photography
+PHSR - Pop Hlth Science Research
+PHYASST - Physician Assistant Program
+PHYSEDU - Physical Education
+PHYSICS - Physics
+PJMS - Policy Journalism and Media St
+POE - Practice-Oriented Education
+POLISH - Polish
+POLSCI - Political Science
+POPHS - Population Health Sciences
+PORTUGUE - Portuguese
+PREACHNG - Preaching
+PSC - Psychiatry
+PSP - Pathology Study Program
+PSY - Psychology
+PSYCHTRY - Psychiatry
+PT-D - Physical Therapy - Doctorate
+PTH - Pathology
+PUBPOL - Public Policy
+QM - Quantitative Management
+QUECHUA - Quechua
+RACESOC - Race & Society
+RAD - Radiology
+RADIOL - Radiology
+RADONC - Radiation Oncology
+REG - Registration
+RELIGION - Religion
+RESEARCH - Research
+RIGHTS - Human Rights
+ROMST - Romance Studies
+RROMP - Radiology, RadOnc & Med Physic
+RUSSIAN - Russian
+SANSKRIT - Sanskrit
+SBB - Structural Bio & Biophysics
+SCISOC - Science & Society
+SERBCRO - Serbian and Croatian
+SES - Slavic and Eurasian Studies
+SOCENT - Social Entrepreneurship
+SOCIOL - Sociology
+SPANISH - Spanish
+SPIRIT - Spirituality
+STA - Statistical Science
+STDYAWAY - Study Away
+STRATEGY - Strategy
+SURGERY - Surgery
+SUSTAIN - Sustainability Engagement
+SWAHILI - Swahili
+SXL - Study of Sexualities
+SYSEGR - Systems Egr for Autonomy
+THEATRST - Theater Studies
+THESIS - Thesis
+TIBETAN - Tibetan
+TURKISH - Turkish
+UKRAIN - Ukrainian
+UNIV - University Course
+UPE - University Program in Ecology
+UPGEN - University Program in Genetics
+URDU - Urdu
+UROLOGY - Urology
+VMS - Visual and Media Studies
+WRITING - Writing
+WXTIAN - World Christianity
+XTIANEDU - Christian Education
+XTIANETH - Christian Ethics
+XTIANPRC - Christian Practice
+XTIANSTU - Christian Studies
+XTIANTHE - Christian Theology
+ZZZ - Duke Equivalent Transfer Cred

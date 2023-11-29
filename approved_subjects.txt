@@ -1,0 +1,6 @@
+COMPSCI - Computer Science
+MATH - Mathematics
+PUBPOL - Public Policy
+CHINESE - Chinese
+AMES - Asian & Middle Eastern Studies
+ECON - Economics
