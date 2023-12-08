@@ -4,3 +4,6 @@ PUBPOL - Public Policy
 CHINESE - Chinese
 AMES - Asian & Middle Eastern Studies
 ECON - Economics
+BIOLOGY - Biology
+CHEM - Chemistry
+HISTORY - History

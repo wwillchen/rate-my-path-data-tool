@@ -1,5 +1,6 @@
 import pymongo
 import dotenv
+import sys
 import json
 from bs4 import BeautifulSoup
 import requests
@@ -16,7 +17,7 @@ with open("approved_subjects.txt", "r") as file:
 
 
 
-termid = 8526
+termid = [8506, 8806]
 
 # while True:
 headers={
@@ -42,7 +43,8 @@ headers={
 db = mongo.rate_my_path
 collection = db.ratings
 
-for subj in subjs:
+# subjs = ['COMPSCI - Computer Science']
+for sno, subj in enumerate(subjs):
     codes = subj.split(" - ")
     code = codes[0]
     page = 1
@@ -53,7 +55,9 @@ for subj in subjs:
         r = requests.get(f"https://duke.evaluationkit.com/AppApi/Report/PublicReport?Course={code}&Instructor=&TermId={termid}&Year=&AreaId=&QuestionKey=&Search=true&page={page}", headers=headers)
         js = r.json()
         has_more = bool(js["hasMore"])
-        for itm in js["results"]:
+        for cno,itm in enumerate(js["results"]):
+            # if cno > 5:
+                # sys.exit()
             md = {}
             md["term"] = termid
             md["subj_code"] = code
@@ -79,12 +83,24 @@ for subj in subjs:
             codes = requests.get(f"https://duke.evaluationkit.com/AppApi/Report/PublicReportQuestions?UniqueKey={uuid}", headers=headers)
             if codes.status_code == 200:
                 njs = codes.json()
+                with open(f"./html_data/{cno}.html","w+") as file:
+                    file.write('\n'.join(njs))
                 for o,nitm in enumerate(njs):
                     soup = BeautifulSoup(nitm, features="html.parser")
+                    ["intellectually_stimulating", "course_rating", "instructor_score", "difficulty", "hours"]
                     num = soup.find("strong").text
-                    md[course_order_attrs[o]] = float(num)
-            print(md)
+                    if "stimulating" in nitm.lower():
+                        md["intellectually_stimulating"] = num
+                    elif "components" in nitm.lower():
+                        md["course_rating"] = num
+                    elif "difficult" in nitm.lower():
+                        md["difficulty"] = num
+                    elif "hours" in nitm.lower():
+                        md["hours"] = num
+                    elif "effectiveness" in nitm.lower():
+                        md["instructor_score"] = num
             all_data.append(md)
+            print(md)
         if has_more:
             page += 1
         else:
